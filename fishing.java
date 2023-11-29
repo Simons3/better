@@ -1,6 +1,6 @@
 import java.util.*;
 class Main{
-hello
+hello hello again
   public static Scanner input = new Scanner(System.in);
   public static int row, col, catchCount = 0;
   //where the fish are hiding
